@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- welcome activity strings -->
+    <string name="alarm_settings_button_text">Alarm Settings</string>
+    <string name="app_name">snUze</string>
+    <string name="account_settings_button_text">Account Settings</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome">Welcome to snUze!</string>
+    <string name="info_button_text">Info</string>
+    <string name="account_summary_text">Account Summary</string>
+    <string name="organization_selection_text">Organization Selection</string>
+    <string name="funding_settings_text">Funding Settings</string>
+    <string name="donation_settings_text">Donation Settings</string>
+
+    <!-- account settings strings -->
+    <!-- info strings -->
+    <string name="title_activity_account_settings2">Account Settings</string>
+    <string name="title_activity_info">Info</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_alarm_settings">Alarm Settings</string>
+
+</resources>
